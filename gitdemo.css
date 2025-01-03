@@ -2,13 +2,13 @@ body{
     background:linear-gradient(92 deg, rgb(78, 78, 78),grey);
     background-color: aqua;
 }
-l-box{
+.l-box{
     background-color: blue;
     height: 400px;
     width: 200px;
 }
 
-l-box{
+.l-box{
     background-color: rgb(255, 81, 0);
     height: 200px;
     width: 100px;
